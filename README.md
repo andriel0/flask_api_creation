@@ -1,6 +1,6 @@
 # my_first_api_creation
 
-Minha primeira API criada. Peguei um bando de dados fictício, criado pela Hashtag Programação, hospedei em um servidor que facilita o upload do arquivo para a rede.
+Minha primeira API criada. Peguei um banco de dados fictício, criado pela Hashtag Programação, hospedei em um servidor que facilita o upload do arquivo para a rede.
 
 https://vendasapi.andriel0.repl.co/
 
