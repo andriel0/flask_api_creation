@@ -1,6 +1,6 @@
 # my_first_api_creation
 
-Minha primeira API criada. Peguei um banco de dados fictício, criado pela Hashtag Programação, hospedei em um servidor que facilita o upload do arquivo para a rede.
+Minha primeira API criada. Peguei um banco de dados fictício, criado pela Hashtag Programação, fiz um link com o Flask e hospedei em um servidor que facilita o upload do arquivo para a rede.
 
 https://vendasapi.andriel0.repl.co/
 
